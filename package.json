@@ -1,0 +1,13 @@
+{
+  "name": "weather-node-app",
+  "version": "1.0.0",
+  "description": "Weather APP create using Node.js",
+  "main": "index.js",
+  "author": "Miloš Štrbo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
